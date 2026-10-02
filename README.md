@@ -35,6 +35,6 @@ Busco transformar o conhecimento adquirido em projetos funcionais, enquanto dese
 
 💼 LinkedIn: https://www.linkedin.com/in/giovanna-andrade-538694268?utm_source=share_via&utm_content=profile&utm_medium=member_ios
 
-📧 E-mail: giovannaandrade0422@gamil.com
+📧 E-mail: giovannaandrade0422@gmail.com
 
 
