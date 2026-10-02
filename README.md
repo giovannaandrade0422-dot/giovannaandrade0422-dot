@@ -22,7 +22,7 @@ HTML • CSS • JavaScript • LocalStorage
 
 **Análise e Desenvolvimento de Sistemas**  
 Universidade Veiga de Almeida — UVA 
-**2026 - Atual***
+**2026 - Atual**
 
 📚 Estudos atuais: Programação em C • Desenvolvimento Web • Banco de Dados • Lógica de Programação
 
